@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lemon</folder>
+	<filename>13.jpeg</filename>
+	<path>/Users/HoraceCai/Desktop/540 dl/origindata/lemon/13.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lemon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>208</ymin>
+			<xmax>566</xmax>
+			<ymax>550</ymax>
+		</bndbox>
+	</object>
+</annotation>

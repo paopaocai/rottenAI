@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cherry</folder>
+	<filename>1.jpeg</filename>
+	<path>/Users/HoraceCai/Desktop/540 dl/origindata/cherry/1.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cherry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>489</ymin>
+			<xmax>519</xmax>
+			<ymax>769</ymax>
+		</bndbox>
+	</object>
+</annotation>

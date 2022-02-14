@@ -1,0 +1,38 @@
+<annotation>
+	<folder>peach</folder>
+	<filename>25.jpg</filename>
+	<path>/Users/HoraceCai/Desktop/540 dl/origindata/peach/25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>peach</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>60</ymin>
+			<xmax>260</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rotten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>85</ymin>
+			<xmax>164</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>

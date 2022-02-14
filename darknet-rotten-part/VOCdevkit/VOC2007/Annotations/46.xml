@@ -1,0 +1,38 @@
+<annotation>
+	<folder>watermelon</folder>
+	<filename>46.jpg</filename>
+	<path>/Users/HoraceCai/Desktop/540 dl/origindata/watermelon/46.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>watermelon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>177</ymin>
+			<xmax>571</xmax>
+			<ymax>573</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rotten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>252</ymin>
+			<xmax>401</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+</annotation>

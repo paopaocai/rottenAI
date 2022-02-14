@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data</folder>
+	<filename>58.jpg</filename>
+	<path>/Users/HoraceCai/Desktop/540 dl/Data/data/58.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fresh_banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>41</ymin>
+			<xmax>355</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fresh_banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>101</ymin>
+			<xmax>394</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

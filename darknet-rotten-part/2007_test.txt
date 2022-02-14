@@ -1,0 +1,8 @@
+/content/drive/MyDrive/darknet-old/VOCdevkit/VOC2007/JPEGImages/35.jpg
+/content/drive/MyDrive/darknet-old/VOCdevkit/VOC2007/JPEGImages/34.jpg
+/content/drive/MyDrive/darknet-old/VOCdevkit/VOC2007/JPEGImages/22.jpg
+/content/drive/MyDrive/darknet-old/VOCdevkit/VOC2007/JPEGImages/23.jpg
+/content/drive/MyDrive/darknet-old/VOCdevkit/VOC2007/JPEGImages/26.jpg
+/content/drive/MyDrive/darknet-old/VOCdevkit/VOC2007/JPEGImages/24.jpg
+/content/drive/MyDrive/darknet-old/VOCdevkit/VOC2007/JPEGImages/25.jpg
+/content/drive/MyDrive/darknet-old/VOCdevkit/VOC2007/JPEGImages/42.jpg

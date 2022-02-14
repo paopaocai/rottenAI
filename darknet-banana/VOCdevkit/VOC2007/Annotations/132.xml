@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data</folder>
+	<filename>132.jpg</filename>
+	<path>/Users/HoraceCai/Desktop/540 dl/Data/data/132.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>692</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rotten_banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>86</ymin>
+			<xmax>794</xmax>
+			<ymax>581</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rotten_banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>89</ymin>
+			<xmax>943</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>

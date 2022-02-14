@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pear</folder>
+	<filename>40.jpg</filename>
+	<path>/Users/HoraceCai/Desktop/540 dl/origindata/pear/40.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rotten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>697</xmin>
+			<ymin>674</ymin>
+			<xmax>1050</xmax>
+			<ymax>1060</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>535</xmin>
+			<ymin>442</ymin>
+			<xmax>1047</xmax>
+			<ymax>1069</ymax>
+		</bndbox>
+	</object>
+</annotation>

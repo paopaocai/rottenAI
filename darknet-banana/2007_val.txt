@@ -1,0 +1,4 @@
+/content/drive/MyDrive/darknet-new/VOCdevkit/VOC2007/JPEGImages/159.jpg
+/content/drive/MyDrive/darknet-new/VOCdevkit/VOC2007/JPEGImages/114.jpg
+/content/drive/MyDrive/darknet-new/VOCdevkit/VOC2007/JPEGImages/179.jpg
+/content/drive/MyDrive/darknet-new/VOCdevkit/VOC2007/JPEGImages/144.jpg

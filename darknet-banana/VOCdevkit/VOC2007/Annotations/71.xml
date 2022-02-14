@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>71.jpg</filename>
+	<path>/Users/HoraceCai/Desktop/540 dl/Data/data/71.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fresh_banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>175</ymin>
+			<xmax>559</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>
